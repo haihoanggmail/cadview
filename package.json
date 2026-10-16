@@ -1,0 +1,14 @@
+{
+  "name": "cad-enterprise-viewer",
+  "version": "12.0.0",
+  "private": true,
+  "description": "Enterprise Grade Native DWG & DXF Web Viewer with Multi-page PDF Report & Session Persistence",
+  "scripts": {
+    "build": "echo 'Static build ready for Vercel'"
+  },
+  "dependencies": {
+    "three": "0.128.0",
+    "dxf-parser": "1.1.2",
+    "jspdf": "2.5.1"
+  }
+}
